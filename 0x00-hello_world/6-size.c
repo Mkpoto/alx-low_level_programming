@@ -7,7 +7,6 @@
  */
 int main(void)
 {
-
 	int a;
 	long int b;
 	long long int c;
@@ -20,7 +19,6 @@ int main(void)
 	printf("Size of a long long int: %1u byte(s)\n" i, (unsigned long)sizeof(c));
 	printf("Size of a float: %1u byte(s)\n", (unsigned long)sizeof(f));
 	return (0);
-
 }
 
 
